@@ -103,7 +103,7 @@ const products = [
     price: 35.00,
     category: "Dairy",
   },
-   {
+  {
     id: 12,
     name: "EggsPlant",
     image: eggplant,
@@ -138,12 +138,11 @@ const products = [
     price: 35.00,
     category: "Fruits",
   },
-   {
+  {
     id: 17,
     name: "Milk",
     image: milk,
     price: 35.00,
-    
     category: "Dairy",
   },
   {
@@ -151,7 +150,6 @@ const products = [
     name: "Pineapple",
     image: pineapple,
     price: 35.00,
-   
     category: "Fruits",
   },
   {
@@ -159,7 +157,6 @@ const products = [
     name: "Ricotta Cheese",
     image: ricottacheese,
     price: 35.00,
-   
     category: "Dairy",
   },
   {
@@ -167,7 +164,6 @@ const products = [
     name: "salmon",
     image: salmon,
     price: 35.00,
-    
     category: "Seafood",
   },
   {
@@ -175,7 +171,6 @@ const products = [
     name: "shrimp",
     image: shrimp,
     price: 35.00,
-   
     category: "Seafood",
   },
   {
@@ -183,39 +178,34 @@ const products = [
     name: "slice cheese",
     image: slicecheese,
     price: 35.00,
-   
     category: "Dairy",
   },
-   {
+  {
     id: 23,
     name: "strawberry",
     image: strawberry,
     price: 35.00,
-    
     category: "Fruits",
   },
-     {
+  {
     id: 24,
     name: "tilapia",
     image: tilapia,
     price: 35.00,
-   
     category: "Seafood",
   },
-   {
+  {
     id: 25,
     name: "tofu",
     image: tofu,
     price: 35.00,
-   
     category: "Seafood",
   },
-    {
+  {
     id: 26,
     name: "yogurt",
     image: yogurt,
     price: 35.00,
-   
     category: "Dairy",
   },
 ];
