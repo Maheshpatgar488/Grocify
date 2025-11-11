@@ -25,7 +25,7 @@ const Cart = () => {
   };
 
   if (cartItems.length === 0 && !orderPlaced)
-    return <p className="p-5 text-center text-lg">Your cart is empty!</p>;
+    return <p className="p-5 text-center text-lg mt-10 lg:mt-25 lg:text-4xl">Your cart is empty!</p>;
 
   return (
     <div className="p-5 max-w-4xl mx-auto mt-28 mb-20 bg-white rounded-xl shadow-md border border-gray-100">
